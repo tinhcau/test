@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings>
+	<flurry>
+		<iOS>5CB9Q3J2FNGVKCVYZMTV</iOS>
+		<Android>4555ND2M4BF4VNYVC83F</Android>
+	</flurry>
+	<chartboost>
+		<iOS>
+			<id>5330ba672d42da66dae70d9a</id>
+			<signature>92fe81b10079d214bda78446a8ec0aefd1ef31e8</signature>
+		</iOS>
+	</chartboost>
+	<inapp>
+		<removeAd>com.amonki.twofourone.removeads</removeAd>
+		<pack1>com.amonki.twofourone.pack1</pack1>
+		<pack2>com.amonki.twofourone.pack2</pack2>
+		<pack3>com.amonki.twofourone.pack3</pack3>
+	</inapp>
+	<leaderboard>
+		<iOS>com.amonki.leaderboard</iOS>
+		<Android>CgkI5Ob-2u8WEAIQAQ</Android>
+	</leaderboard>
+	<admob>
+		<iOS>a15330bcd1b4af5</iOS>
+		<Android>a15330bd81bdda0</Android>
+	</admob>
+	<playhaven>
+		<fullScreenTag>main_menu</fullScreenTag>
+	</playhaven>
+	<link>
+		<iOS>https://itunes.apple.com/us/app/impossible-2048/id848514933</iOS>
+		<Android>https://play.google.com/store/apps/details?id=com.amonki.twofourone</Android>
+	</link>
+	<share>
+		<facebook>
+			<title>Impossible 2048</title>
+			<message>I scored %score% points at The Impossible 2048, a game where you join numbers to score high! @The_Impossible_2048_game</message>
+			<picture>https://fbcdn-photos-d-a.akamaihd.net/hphotos-ak-prn1/t39.2081-0/851563_1481118678766831_1468765262_n.png</picture>
+		</facebook>
+		<twitter>I scored %score% points at The Impossible 2048, a game where you join numbers to score high! @The_Impossible_2048_game </twitter>
+	</share>
+</settings>
